@@ -94,8 +94,3 @@ Ce challenge est simple car :
 - On peut bruteforce facilement
 
 La solution consiste donc à tester toutes les clés possibles et chercher le flag.
-
-```
-
-Si tu veux, je peux aussi te faire une version **encore plus courte et “orale”**, style tutoriel pas à pas, pour que ce soit super lisible pour un CTF write-up rapide. Veux‑tu que je fasse ça ?
-```
